@@ -26,6 +26,8 @@ int main(int argc, char **argv)
               << "." << SPDLOG_VER_PATCH << '\n';
     std::cout << "\n\nUsage Example:\n";
 
+    std::cout << "\n\nHallo Michael!!\n";
+
     // Compiler Warning and clang tidy error
     // std::int32_t i = 0;
 
